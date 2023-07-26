@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harrick. I am a 4th Year Statistics Student @ UTSC
+### Hi there 👋 I'm Harrick, a 4th Year Statistics Student @ UTSC.
 
 <!--
 **harrickcheong/harrickcheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
